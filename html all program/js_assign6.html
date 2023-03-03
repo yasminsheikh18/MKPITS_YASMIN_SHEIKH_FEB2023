@@ -1,28 +1,18 @@
 <html>
-<body>
-	enter number:<input type="text" id="n1" /><br><br>
-	<input type="button" value="show" onclick="printgrater()"; />
-
-
-</body>
-<script language="javascript">
-function printgrater()
-{
-var num=parseInt(document.getElementById("n1").value);
-while(num<=20)
-{
-if(num>=10)
-{
-document.write("number is grater" +num);
-
-}
-else
-{
-document.write("try again");
-
-}
-num=num+1;
-}
-}
-</script>
+      <script>
+       var num,flag=0;
+       while(flag==0)
+       {
+          num=prompt("enetr number");
+          if(num<=10)
+          {
+            alert(num);
+          }
+          else
+          {
+            flag=1;
+            alert("number is greater than 10");
+          }
+       }
+    </script>
 </html>
