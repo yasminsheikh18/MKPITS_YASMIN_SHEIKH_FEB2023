@@ -1,6 +1,6 @@
 <html>
 <body>
-<div style="width:400px;height:400px;border:1px solid red;" onmousemove="mmove(this)">mkpits</div>
+<div style="width:400px;height:300px;border:1px solid red;" onmousemove="mmove(event)">mkpits</div>
 <p id="p1">coordinate</p>
 </body>
 <script>
@@ -9,7 +9,7 @@ function mmove(obj)
 var x=obj.clientX;
 var y=obj.clientY;
 var cor=x +','+ y;
-document.getElementById("p1").innerHtml=cor;
+document.getElementById("p1").innerHTML=cor;
 
 
 }
