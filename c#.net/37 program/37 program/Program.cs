@@ -11,7 +11,7 @@ namespace _37_program
         static void Main(string[] args)
         {
             int num;
-            int res = 1;
+            int res ;
             Console.WriteLine("enter number");
             num = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i <= 10; i++)
