@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex of static field2", "ex of static field2\ex of static field2.csproj", "{A7D9C6CA-004E-4087-87A6-7DFF9D5FE54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D9C6CA-004E-4087-87A6-7DFF9D5FE54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9C6CA-004E-4087-87A6-7DFF9D5FE54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D9C6CA-004E-4087-87A6-7DFF9D5FE54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D9C6CA-004E-4087-87A6-7DFF9D5FE54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5DF2832-2FB1-46EF-92A4-0F4DF2E70F74}
+	EndGlobalSection
+EndGlobal

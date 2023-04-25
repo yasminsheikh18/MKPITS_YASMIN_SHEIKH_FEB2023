@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\bin\Debug\ex of static field2.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\bin\Debug\ex of static field2.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\bin\Debug\ex of static field2.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\obj\Debug\ex of static field2.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\obj\Debug\ex of static field2.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\obj\Debug\ex of static field2.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\obj\Debug\ex of static field2.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static field2\ex of static field2\obj\Debug\ex of static field2.pdb
