@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\bin\Debug\ex of static constructor.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\bin\Debug\ex of static constructor.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\bin\Debug\ex of static constructor.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\obj\Debug\ex of static constructor.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\obj\Debug\ex of static constructor.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\obj\Debug\ex of static constructor.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\obj\Debug\ex of static constructor.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of static constructor\ex of static constructor\obj\Debug\ex of static constructor.pdb

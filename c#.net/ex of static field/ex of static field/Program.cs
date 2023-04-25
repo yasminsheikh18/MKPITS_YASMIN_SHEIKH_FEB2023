@@ -31,6 +31,7 @@ namespace ex_of_static_field
         {
             Account a1 = new Account(123, "yasmin");
             Account a2 = new Account(456, "yashu");
+            Account.Rate_of_Interest = 33.4f;
             a1.display();
             a2.display();
         }

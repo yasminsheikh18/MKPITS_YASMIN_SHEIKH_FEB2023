@@ -25,7 +25,7 @@ namespace movieshow
     }
     class Online_Booking : Movie_Ticket
     {
-        public Online_Booking(int No_Of_Seat, int Ticket_Price)
+        public Online_Booking(int No_Of_Seat, float Ticket_Price)
         {
 
             this.No_Of_Seats = No_Of_Seats;
@@ -43,12 +43,13 @@ namespace movieshow
         }
     }
 
+
     class Box_Office : Movie_Ticket
     {
-        public Box_Office(int No_Of_Seat, int Ticket_Price)
+        public Box_Office(int No_Of_Seat, float Ticket_Price)
         {
 
-            this.No_Of_Seats = No_Of_Seat;
+            this.No_Of_Seats = No_Of_Seats;
             this.Ticket_Price = Ticket_Price;
         }
         public float Booking_Amount { get; set; }

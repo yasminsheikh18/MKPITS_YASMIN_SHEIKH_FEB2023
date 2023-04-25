@@ -102,6 +102,7 @@ namespace movieshow
             {
                 mt = new Box_Office(Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
 
+
             }
             label8.Text = mt.Calculate_Ticket_Price();
 
