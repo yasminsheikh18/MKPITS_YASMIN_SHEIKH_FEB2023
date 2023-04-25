@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\bin\Debug\interface mutiple inheritance.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\bin\Debug\interface mutiple inheritance.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\bin\Debug\interface mutiple inheritance.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\obj\Debug\interface mutiple inheritance.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\obj\Debug\interface mutiple inheritance.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\obj\Debug\interface mutiple inheritance.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\obj\Debug\interface mutiple inheritance.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\interface mutiple inheritance\interface mutiple inheritance\obj\Debug\interface mutiple inheritance.pdb

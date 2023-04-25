@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\bin\Debug\movieshow.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\bin\Debug\movieshow.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\bin\Debug\movieshow.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movieshow\movieshow\obj\Debug\movieshow.pdb
