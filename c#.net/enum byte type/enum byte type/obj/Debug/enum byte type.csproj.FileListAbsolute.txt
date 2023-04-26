@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\bin\Debug\enum byte type.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\bin\Debug\enum byte type.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\bin\Debug\enum byte type.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\obj\Debug\enum byte type.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\obj\Debug\enum byte type.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\obj\Debug\enum byte type.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\obj\Debug\enum byte type.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\enum byte type\enum byte type\obj\Debug\enum byte type.pdb

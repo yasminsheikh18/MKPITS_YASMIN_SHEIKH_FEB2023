@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\bin\Debug\ex of try catch block.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\bin\Debug\ex of try catch block.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\bin\Debug\ex of try catch block.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\obj\Debug\ex of try catch block.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\obj\Debug\ex of try catch block.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\obj\Debug\ex of try catch block.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\obj\Debug\ex of try catch block.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ex of try catch block\ex of try catch block\obj\Debug\ex of try catch block.pdb

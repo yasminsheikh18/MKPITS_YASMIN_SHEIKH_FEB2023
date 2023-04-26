@@ -16,7 +16,6 @@ namespace aggeration1
             this.city = city;
             this.state = state;
         
-        
         }
     
     }
