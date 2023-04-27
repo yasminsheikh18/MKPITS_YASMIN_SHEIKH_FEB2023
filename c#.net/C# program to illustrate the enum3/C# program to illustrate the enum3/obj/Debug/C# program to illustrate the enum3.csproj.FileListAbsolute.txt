@@ -1,8 +1,0 @@
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\bin\Debug\C# program to illustrate the enum3.exe.config
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\bin\Debug\C# program to illustrate the enum3.exe
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\bin\Debug\C# program to illustrate the enum3.pdb
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\obj\Debug\C# program to illustrate the enum3.csproj.AssemblyReference.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\obj\Debug\C# program to illustrate the enum3.csproj.SuggestedBindingRedirects.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\obj\Debug\C# program to illustrate the enum3.csproj.CoreCompileInputs.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\obj\Debug\C# program to illustrate the enum3.exe
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the enum3\C# program to illustrate the enum3\obj\Debug\C# program to illustrate the enum3.pdb

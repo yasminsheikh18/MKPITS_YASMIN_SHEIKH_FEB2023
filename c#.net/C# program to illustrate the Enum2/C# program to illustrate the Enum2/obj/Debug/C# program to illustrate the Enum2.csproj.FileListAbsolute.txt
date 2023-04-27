@@ -1,8 +1,0 @@
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\obj\Debug\C# program to illustrate the Enum2.csproj.AssemblyReference.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\obj\Debug\C# program to illustrate the Enum2.csproj.SuggestedBindingRedirects.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\obj\Debug\C# program to illustrate the Enum2.csproj.CoreCompileInputs.cache
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\bin\Debug\C# program to illustrate the Enum2.exe.config
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\bin\Debug\C# program to illustrate the Enum2.exe
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\bin\Debug\C# program to illustrate the Enum2.pdb
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\obj\Debug\C# program to illustrate the Enum2.exe
-C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# program to illustrate the Enum2\C# program to illustrate the Enum2\obj\Debug\C# program to illustrate the Enum2.pdb
