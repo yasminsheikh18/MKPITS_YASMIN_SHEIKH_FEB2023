@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\bin\Debug\C# string equals.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\bin\Debug\C# string equals.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\bin\Debug\C# string equals.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\obj\Debug\C# string equals.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\obj\Debug\C# string equals.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\obj\Debug\C# string equals.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\obj\Debug\C# string equals.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\C# string equals\C# string equals\obj\Debug\C# string equals.pdb

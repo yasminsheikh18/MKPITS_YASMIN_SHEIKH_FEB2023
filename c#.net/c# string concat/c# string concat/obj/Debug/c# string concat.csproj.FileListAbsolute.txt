@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\bin\Debug\c# string concat.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\bin\Debug\c# string concat.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\bin\Debug\c# string concat.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\obj\Debug\c# string concat.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\obj\Debug\c# string concat.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\obj\Debug\c# string concat.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\obj\Debug\c# string concat.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string concat\c# string concat\obj\Debug\c# string concat.pdb

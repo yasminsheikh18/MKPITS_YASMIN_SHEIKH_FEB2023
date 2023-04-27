@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\bin\Debug\c# string compare.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\bin\Debug\c# string compare.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\bin\Debug\c# string compare.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\obj\Debug\c# string compare.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\obj\Debug\c# string compare.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\obj\Debug\c# string compare.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\obj\Debug\c# string compare.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string compare\c# string compare\obj\Debug\c# string compare.pdb

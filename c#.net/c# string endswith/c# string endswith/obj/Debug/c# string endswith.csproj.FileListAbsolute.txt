@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\bin\Debug\c# string endswith.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\bin\Debug\c# string endswith.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\bin\Debug\c# string endswith.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\obj\Debug\c# string endswith.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\obj\Debug\c# string endswith.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\obj\Debug\c# string endswith.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\obj\Debug\c# string endswith.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string endswith\c# string endswith\obj\Debug\c# string endswith.pdb
