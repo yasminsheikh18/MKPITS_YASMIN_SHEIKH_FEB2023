@@ -92,19 +92,19 @@ namespace movieshow
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Movie_Ticket mt = null;
+            MovieTicket mt = null;
             if (radioButton1.Checked)
             {
-                mt = new Online_Booking(Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
+                mt = new OnlineBooking(Convert.ToInt32(numericUpDown1.Value), Convert.ToSingle(textBox1.Text));
 
             }
             else if (radioButton2.Checked)
             {
-                mt = new Box_Office(Convert.ToInt32(numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
+                mt = new BoxOffice(Convert.ToInt32(numericUpDown1.Value), Convert.ToSingle(textBox1.Text));
 
 
             }
-            label8.Text = mt.Calculate_Ticket_Price();
+            label8.Text = mt.CalculateTicketPrice();
 
         }
     }

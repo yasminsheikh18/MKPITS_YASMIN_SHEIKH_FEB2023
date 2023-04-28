@@ -1,0 +1,12 @@
+create table student1(rollno int , name varchar(20), address varchar(20),mobno int)
+insert into student1 values(1,'amit','fortune mall',1234567890)
+insert into student1 values(2,'jay','sadar',1123456789)
+insert into student1 values(3,'sahil','Nagpur',11354)
+insert into student1 values(4,'tanmay','Mahish',56789)
+insert into student1 values(5,'anjali','abc',11256789)
+insert into student1 values(6,'monali','bbc',1126789)
+insert into student1 values(7,'mayuri','xyz',456789)
+insert into student1 values(8,'yasmin','aaa',156789)
+insert into student1 values(9,'yashu','sar',116789)
+insert into student1 values(10,'jayesh','sadr',456789)
+select * from student1

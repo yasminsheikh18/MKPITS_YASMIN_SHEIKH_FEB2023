@@ -7,58 +7,58 @@ using System.Threading.Tasks;
 namespace movieshow
 {
 
-    abstract class Movie_Ticket
+    abstract class MovieTicket
     {
-        public string Movie_Name { get; set; }
+        public string MovieName { get; set; }
 
-        public string Theater_Name { get; set; }
+        public string TheaterName { get; set; }
 
-        public string Show_Time { get; set; }
+        public string ShowTime { get; set; }
 
-        public int No_Of_Seats { get; set; }
+        public int NoOfSeats { get; set; }
 
-        public float Ticket_Price { get; set; }
+        public float TicketPrice { get; set; }
         //method to calculate ticktet price
-        public abstract string Calculate_Ticket_Price();
+        public abstract string CalculateTicketPrice();
 
        
     }
-    class Online_Booking : Movie_Ticket
+    class OnlineBooking : MovieTicket
     {
-        public Online_Booking(int No_Of_Seat, float Ticket_Price)
+        public OnlineBooking(int NoOfSeats, float TicketPrice)
         {
 
-            this.No_Of_Seats = No_Of_Seats;
-            this.Ticket_Price = Ticket_Price;
+            this.NoOfSeats = NoOfSeats;
+            this.TicketPrice = TicketPrice;
         }
         public float discount { get; set; }
-        public override string Calculate_Ticket_Price()
+        public override string CalculateTicketPrice()
         {
-            float tp = No_Of_Seats * Ticket_Price;
+            float tp = NoOfSeats * TicketPrice;
             discount = tp * 0.10f;
             tp = tp - discount;
 
-            return "Total Price : " + tp.ToString();
+            return "Total Price : " + tp;
 
         }
     }
 
 
-    class Box_Office : Movie_Ticket
+    class BoxOffice : MovieTicket
     {
-        public Box_Office(int No_Of_Seat, float Ticket_Price)
+        public BoxOffice(int NoOfSeats, float TicketPrice)
         {
 
-            this.No_Of_Seats = No_Of_Seats;
-            this.Ticket_Price = Ticket_Price;
+            this.NoOfSeats = NoOfSeats;
+            this.TicketPrice = TicketPrice;
         }
-        public float Booking_Amount { get; set; }
-        public override string Calculate_Ticket_Price()
+        public float BookingAmount { get; set; }
+        public override string CalculateTicketPrice()
         {
-            float tp = No_Of_Seats * Ticket_Price;
-            Booking_Amount = 20;
-            tp = tp + Booking_Amount;
-            return "Ticket Price:" + tp.ToString();
+            float tp = NoOfSeats * TicketPrice;
+            BookingAmount = 20;
+            tp = tp + 20;
+            return "Ticket Price:" + tp;
 
         }
     }
