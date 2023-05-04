@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\bin\Debug\c# string tolower.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\bin\Debug\c# string tolower.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\bin\Debug\c# string tolower.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\obj\Debug\c# string tolower.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\obj\Debug\c# string tolower.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\obj\Debug\c# string tolower.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\obj\Debug\c# string tolower.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string tolower\c# string tolower\obj\Debug\c# string tolower.pdb

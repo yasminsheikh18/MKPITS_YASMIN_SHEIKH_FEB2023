@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fibonacci\fibonacci\obj\Debug\fibonacci.pdb

@@ -45,3 +45,5 @@ select city,COUNT(*) from students
 where state = 'mah'
 group by city
 having COUNT(*) < 2
+
+select first_name from students order by first_name

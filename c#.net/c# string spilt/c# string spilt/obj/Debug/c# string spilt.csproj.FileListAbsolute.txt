@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\bin\Debug\c# string spilt.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\bin\Debug\c# string spilt.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\bin\Debug\c# string spilt.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\obj\Debug\c# string spilt.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\obj\Debug\c# string spilt.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\obj\Debug\c# string spilt.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\obj\Debug\c# string spilt.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string spilt\c# string spilt\obj\Debug\c# string spilt.pdb

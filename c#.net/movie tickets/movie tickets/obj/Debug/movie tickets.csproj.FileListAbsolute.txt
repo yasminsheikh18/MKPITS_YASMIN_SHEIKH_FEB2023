@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\bin\Debug\movie tickets.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\bin\Debug\movie tickets.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\bin\Debug\movie tickets.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie_tickets.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie_tickets.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\movie tickets\movie tickets\obj\Debug\movie tickets.pdb

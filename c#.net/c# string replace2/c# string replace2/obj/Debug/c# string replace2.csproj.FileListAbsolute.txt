@@ -1,0 +1,8 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\bin\Debug\c# string replace2.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\bin\Debug\c# string replace2.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\bin\Debug\c# string replace2.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\obj\Debug\c# string replace2.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\obj\Debug\c# string replace2.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\obj\Debug\c# string replace2.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\obj\Debug\c# string replace2.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\c# string replace2\c# string replace2\obj\Debug\c# string replace2.pdb
