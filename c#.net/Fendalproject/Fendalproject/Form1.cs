@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -56,8 +57,21 @@ namespace Fendalproject
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             DataSet ds = productstore.Getproduct(comboBox1.Text);
-            comboBox2.DataSource = ds.Tables[0];
-            comboBox2.DisplayMember = "Product_Name";
+            foreach(DataRow dr in ds.Tables[0].Rows)
+            {
+                comboBox2.Items.Add(dr["Product_Name"]);
+            }
+           // comboBox2.DataSource = ds.Tables[0];
+            //comboBox2.DisplayMember = "Product_Name";
+
+            //DataSet ds1 = productstore.Getprice(comboBox1.Text);
+            //foreach (DataRow dr in ds1.Tables[0].Rows)
+            //{
+            //    textBox3.Text=( dr["cgst"].ToString());
+            //    textBox4.Text=(dr["sgt"].ToString());
+            //   textBox5.Text= (dr["igst"].ToString());
+
+            //}
 
         }
 

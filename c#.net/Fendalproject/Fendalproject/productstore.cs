@@ -40,16 +40,26 @@ namespace Fendalproject
             DataSet ds = new DataSet();
             SqlDataAdapter da = new SqlDataAdapter(query, con);
             da.SelectCommand.Parameters.AddWithValue("@Product_Type_Name", Product_Type_Name);
-            da.Fill(ds, "TableProdut");
+            da.Fill(ds, "TableProduct");
             return ds;
         }
-        public static DataSet Getprice(string Product_Type_Name)
+        public static DataSet Getgst(string Product_Type_Name)
+        {
+            SqlConnection con = GetConnection();
+            string query = "select a.cgst,a.sgst,a.igst from TableProductGSTDetails a inner join TableProductCategory b on\r\na.Product_Gst_ID=b.Product_Gst_ID where b.Product_Type_Name=@Product_Type_Name";
+            DataSet ds1 = new DataSet();
+            SqlDataAdapter da = new SqlDataAdapter(query, con);
+            da.SelectCommand.Parameters.AddWithValue("@Product_Type_Name", Product_Type_Name);
+            da.Fill(ds1, "TableProdut");
+            return ds1;
+        }
+        public static DataSet Getprice(string Product_Name)
         {
             SqlConnection con = GetConnection();
             string query = "select prices from TableProduct where Product_Type_Name=@Product_Type_Name";
             DataSet ds = new DataSet();
             SqlDataAdapter da = new SqlDataAdapter(query, con);
-            da.SelectCommand.Parameters.AddWithValue("@Product_Type_Name", Product_Type_Name);
+            da.SelectCommand.Parameters.AddWithValue("@Product_Name", Product_Name);
             da.Fill(ds, "TableProdut");
             return ds;
         }
