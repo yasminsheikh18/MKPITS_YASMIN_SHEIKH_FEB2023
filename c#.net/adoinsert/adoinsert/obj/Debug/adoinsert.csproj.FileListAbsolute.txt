@@ -1,0 +1,12 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\bin\Debug\adoinsert.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\bin\Debug\adoinsert.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\bin\Debug\adoinsert.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\adoinsert\adoinsert\obj\Debug\adoinsert.Form2.resources

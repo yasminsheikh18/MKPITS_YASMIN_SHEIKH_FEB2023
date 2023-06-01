@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\bin\Debug\ado user1.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\bin\Debug\ado user1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\bin\Debug\ado user1.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado_user1.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado_user1.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ado user1\ado user1\obj\Debug\ado user1.pdb

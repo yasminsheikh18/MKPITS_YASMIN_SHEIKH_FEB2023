@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\bin\Debug\update delete ado.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\bin\Debug\update delete ado.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\bin\Debug\update delete ado.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update_delete_ado.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update_delete_ado.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\update delete ado\update delete ado\obj\Debug\update delete ado.pdb

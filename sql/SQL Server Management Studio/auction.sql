@@ -1,0 +1,1 @@
+create table Auction (auction_id int , division_name varchar(20),auction_date varchar(20))
