@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\bin\Debug\fendhal 2 project.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\bin\Debug\fendhal 2 project.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\bin\Debug\fendhal 2 project.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal_2_project.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal_2_project.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\fendhal 2 project\fendhal 2 project\obj\Debug\fendhal 2 project.pdb
