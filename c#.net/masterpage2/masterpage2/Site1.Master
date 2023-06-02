@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="masterpage2.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+        .auto-style2 {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .auto-style3 {
+            width: 576px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style1">
+            MKPLACEMENTS&nbsp; AND EDUCATIONAL SERVICES<br />
+            NAGPUR<br />
+            <br />
+            <table class="auto-style2">
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="auto-style3">&nbsp;</td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="home.aspx">Home</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="signup.aspx">Signup</asp:HyperLink>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="login.aspx">Login</asp:HyperLink>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <p>
+            &nbsp;</p>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <h3 style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 600; line-height: 1.2; font-size: 26px; font-family: Raleway, sans-serif; color: rgb(68, 68, 68); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">WELCOME TO MKP IT SERVICES</h3>
+            <p class="fst-italic" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-style: italic !important; color: rgb(68, 68, 68); font-family: system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                <b style="box-sizing: border-box; font-weight: bolder;">MKP IT Services</b><span>&nbsp;</span>is a leading training, job and staffing services provider in Nagpur. We have over a decade of presence now. Previously we were known as<span>&nbsp;</span><b style="box-sizing: border-box; font-weight: bolder;">MK Placements and Education Services</b><span>&nbsp;</span>We also provide services in Pune, Hyderabad, Bangalore, Mumbai, Indore, Bhopal and more cities. Our valuable services are:</p>
+            <ul style="box-sizing: border-box; padding: 0px; margin-top: 0px; margin-bottom: 1rem; list-style: none; color: rgb(68, 68, 68); font-family: system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                <li style="box-sizing: border-box; padding-bottom: 10px;"><i class="bi bi-check-circle" style="box-sizing: border-box; font-size: 20px; padding-right: 4px; color: rgb(0, 153, 51);"></i><span>&nbsp;</span><b style="box-sizing: border-box; font-weight: bolder;">Training and Internship:</b><span>&nbsp;</span>We conduct high end training and provide intership program to freshers to strengthen them with corporate required skills</li>
+                <li style="box-sizing: border-box; padding-bottom: 10px;"><i class="bi bi-check-circle" style="box-sizing: border-box; font-size: 20px; padding-right: 4px; color: rgb(0, 153, 51);"></i><span>&nbsp;</span><b style="box-sizing: border-box; font-weight: bolder;">Campus Placement Services:</b><span>&nbsp;</span>We conduct placements services for freshers, skilled and semi-skilled candidates</li>
+                <li style="box-sizing: border-box; padding-bottom: 10px;"><i class="bi bi-check-circle" style="box-sizing: border-box; font-size: 20px; padding-right: 4px; color: rgb(0, 153, 51);"></i><b style="box-sizing: border-box; font-weight: bolder;">Lateral Placement Services:</b><span>&nbsp;</span>Placement services for junior, mid level and senior level recruitment</li>
+                <li style="box-sizing: border-box; padding-bottom: 10px;"><i class="bi bi-check-circle" style="box-sizing: border-box; font-size: 20px; padding-right: 4px; color: rgb(0, 153, 51);"></i><b style="box-sizing: border-box; font-weight: bolder;">Job fairs at College Level:</b><span>&nbsp;</span>Conduct job fairs for aspiring students at college level</li>
+                <li style="box-sizing: border-box; padding-bottom: 10px;"><i class="bi bi-check-circle" style="box-sizing: border-box; font-size: 20px; padding-right: 4px; color: rgb(0, 153, 51);"></i><b style="box-sizing: border-box; font-weight: bolder;">Campus Recruitment Training:</b><span>&nbsp;</span>We conduct workshops on soft skills, written skills, mock interview preparations and training, personality development training.</li>
+            </ul>
+        </asp:ContentPlaceHolder>
+    </form>
+    <p>
+        &nbsp;</p>
+    <p>
+        @copywrite 2023 mkplacements</p>
+    <p>
+        &nbsp;</p>
+</body>
+</html>

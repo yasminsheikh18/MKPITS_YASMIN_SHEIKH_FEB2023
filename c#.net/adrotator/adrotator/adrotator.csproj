@@ -67,10 +67,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="adrotator.aspx" />
+    <Content Include="cat.jpg" />
+    <Content Include="cat2.jpg" />
+    <Content Include="download %281%29.jfif" />
+    <Content Include="download %282%29.jfif" />
+    <Content Include="download.jfif" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
+    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="adrotator.aspx.cs">
+      <DependentUpon>adrotator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adrotator.aspx.designer.cs">
+      <DependentUpon>adrotator.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>

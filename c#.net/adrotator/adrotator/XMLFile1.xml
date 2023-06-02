@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>cat.jpg</ImageUrl>
+		<Impressions>6</Impressions>
+		
+	</Ad>
+
+	<Ad>
+		<ImageUrl>cat2.jpg</ImageUrl>
+		<Impressions>4</Impressions>
+
+	</Ad>
+
+
+	
+</Advertisements>
