@@ -56,6 +56,18 @@ insert into TablelnvoiceDetails values(2,'nikita',987654322,1001,211,3002,2002-0
 insert into TablelnvoiceDetails values(12,'gopal',987654311,1001,215,3003,2002-12-4,1,60000,9,9,12,5400,54000,10800,70000)
 insert into TablelnvoiceDetails values(13,'anand',987654331,1002,210,3004,2002-02-4,1,40000,6,6,12,2400,2400,24000,42000)
 
+
+----------------------------------
+
+create table TablelnvoiceDetailss(Invoice_Detail_ID int primary key identity,Customer_Name varchar(500),Customer_Contact varchar(15),Product_Category_ID int, constraint o2
+foreign key(Product_Category_ID) references TableProductCategory(Product_Category_ID),ProductID int constraint o3 foreign key(ProductID) references TableProduct
+(ProductlD),Residential_Type_ID int,Invoice_Date DateTime,Quantity Decimal,price Decimal ,CGST Decimal,SGST Decimal,IGST Decimal,CGST_Value Decimal,
+SGST_Value Decimal,IGST_Value Decimal,Total_Amount Decimal)
+insert into TablelnvoiceDetails values(1,'Rahul',987654321,1002,210,3001,2002-04-4,1,50000,6,6,12,3000,3000,6000,56000)
+insert into TablelnvoiceDetails values(2,'nikita',987654322,1001,211,3002,2002-08-4,1,65000,9,9,12,11700,5850,5850,76000)
+insert into TablelnvoiceDetails values(12,'gopal',987654311,1001,215,3003,2002-12-4,1,60000,9,9,12,5400,54000,10800,70000)
+insert into TablelnvoiceDetails values(13,'anand',987654331,1002,210,3004,2002-02-4,1,40000,6,6,12,2400,2400,24000,42000)
+
 select * from TablelnvoiceDetails
 
 select p.Product_Name from TableProduct p inner join TableProductCategory c on
