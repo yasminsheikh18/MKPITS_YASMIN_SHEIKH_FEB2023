@@ -12,7 +12,7 @@ namespace fendhal_2_project
 {
     public partial class Form1 : Form
     {
-        enum  Nationality{ Indian,NRI}
+        enum Nationality { Indian, NRI }
         Nationality nationality;
 
         public Form1()
@@ -25,6 +25,7 @@ namespace fendhal_2_project
             DataSet ds = Product.Getcategory();
             comboBox1.DataSource = ds.Tables[0];
             comboBox1.DisplayMember = "Product_Type_Name";
+            comboBox1.ValueMember = "Product_Category_ID";
         }
         int cgst = 0;
         int sgst = 0;
@@ -36,16 +37,17 @@ namespace fendhal_2_project
             DataSet ds2 = Product.Getproduct(comboBox1.Text);
             comboBox2.DataSource = ds2.Tables[0];
             comboBox2.DisplayMember = "Product_Name";
+            comboBox2.ValueMember = "ProductlD";
 
             DataSet ds3 = Product.Getgst(comboBox1.Text);
-            foreach(DataRow dr in ds3.Tables[0].Rows)
+            foreach (DataRow dr in ds3.Tables[0].Rows)
             {
                 cgst = Convert.ToInt32(dr["cgst"].ToString());
                 sgst = Convert.ToInt32(dr["sgst"].ToString());
                 igst = Convert.ToInt32(dr["igst"].ToString());
 
             }
-            if(nationality==0)
+            if (nationality == 0)
             {
                 tgst = cgst + sgst;
             }
@@ -53,7 +55,7 @@ namespace fendhal_2_project
             {
                 tgst = igst;
             }
-            textBox3.Text=cgst.ToString();
+            textBox3.Text = cgst.ToString();
             textBox4.Text = sgst.ToString();
             textBox5.Text = igst.ToString();
 
@@ -74,7 +76,7 @@ namespace fendhal_2_project
             nationality = Nationality.Indian;
             textBox3.Text = cgst.ToString();
             textBox4.Text = sgst.ToString();
-            textBox5.Text=Convert.ToString(Convert.ToInt32(textBox3.Text) + Convert.ToInt32(textBox4.Text));
+            textBox5.Text = Convert.ToString(Convert.ToInt32(textBox3.Text) + Convert.ToInt32(textBox4.Text));
             calculate_total();
 
 
@@ -91,7 +93,7 @@ namespace fendhal_2_project
         }
 
         private void textBox10_TextChanged(object sender, EventArgs e)
-            //fill quantity * price
+        //fill quantity * price
         {
 
             if (textBox10.Text == "")
@@ -125,7 +127,72 @@ namespace fendhal_2_project
             textBox12.Text = netamount.ToString();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            checkuserdetails();
+        }
 
+        public void checkuserdetails()
+        {
+            if (textBox1.Text == "" || textBox2.Text == "")
+            {
+                MessageBox.Show("please fill all the details");
+            }
+            else if (textBox10.Text == "0")
+            {
+                MessageBox.Show("Quantity cannot be zero");
+            }
+            else
+            {
+                string result = Product.savetableinvoicedetails(textBox1.Text, textBox2.Text, Convert.ToInt32(comboBox1.SelectedValue),
+                    Convert.ToInt32(comboBox2.SelectedValue), Convert.ToInt32(nationality), dateTimePicker1.Value,
+                    Convert.ToDecimal(textBox10.Text), Convert.ToDecimal(textBox9.Text), Convert.ToDecimal(textBox3.Text),
+                    Convert.ToDecimal(textBox4.Text), Convert.ToDecimal(textBox5.Text), Convert.ToDecimal(textBox6.Text),
+                    Convert.ToDecimal(textBox7.Text), Convert.ToDecimal(textBox8.Text), Convert.ToDecimal(textBox11.Text));
+                MessageBox.Show(result);
+
+
+
+                //textbox1=====full name
+                // textBox2======contact number
+                //comboBox1.SelectedValue=====productcategoryid(Product type name)
+                //comboBox2.SelectedValue=====productid(Product name)
+                //nationality ( RADIO BUTTON)
+                //  dateTimePicker1.Value(INVOICE DATE)
+                //textbox10=======QUANTITY
+                //textbox9========price
+                //textbox3=========CGST
+                //textbox4========SGST
+                //textbox5===========IGST
+                //textbox6========CGST_VAluE
+                //textbox7========sGST_VAluE
+                //textbox8========iGST_VAluE
+                //textbox11========totalamount
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            clearall();
+        }
+        public void clearall()//method
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox10.Clear();
+            textBox3.Clear();
+            textBox4.Clear();
+            textBox5.Clear();
+            textBox6.Clear();
+            textBox7.Clear();
+            textBox8.Clear();
+            textBox9.Clear();
+            textBox11.Clear();
+            textBox12.Clear();
+            comboBox1.Text = "";
+            comboBox2.Text = "";
+            dateTimePicker1.Value = DateTime.Now;
+        }
     }
 }
 
