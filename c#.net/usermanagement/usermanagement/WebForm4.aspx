@@ -120,6 +120,7 @@ hr {
 </head>
 <body>
     <form id="form1" runat="server">
+        </form>
        
         <h2>Modal Signup Form</h2>
 
@@ -127,7 +128,7 @@ hr {
 
 <div id="id01" class="modal">
   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-  <form class="modal-content" action="/action_page.php">
+  <form class="modal-content" action="signup.aspx">
     <div class="container">
       <h1>Sign Up</h1>
       <p>Please fill in this form to create an account.</p>
