@@ -16,7 +16,7 @@ namespace stringquery
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("WebForm2.aspx?uname=" + TextBox1.Text);
+            Response.Redirect("WebForm3.aspx?uname=" + TextBox1.Text);
         }
     }
 }

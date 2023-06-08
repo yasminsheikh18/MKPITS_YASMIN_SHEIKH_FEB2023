@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute_management.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute_management.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\bin\Debug\institute management.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\bin\Debug\institute management.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\bin\Debug\institute management.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\institute management\institute management\obj\Debug\institute management.pdb

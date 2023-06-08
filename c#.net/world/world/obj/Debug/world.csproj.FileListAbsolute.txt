@@ -1,0 +1,11 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.Form1.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.Properties.Resources.resources
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.csproj.GenerateResource.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\bin\Debug\world.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\bin\Debug\world.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\bin\Debug\world.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\world\world\obj\Debug\world.pdb
