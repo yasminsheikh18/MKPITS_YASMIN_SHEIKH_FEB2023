@@ -189,6 +189,8 @@ namespace institute_management
 
                 result = institute.savetablereg(Convert.ToInt32(comboBox1.SelectedValue), Convert.ToInt32(comboBox2.SelectedValue), Convert.ToInt32(comboBox3.SelectedValue));
                 MessageBox.Show(result);
+
+                result=institute.save
             }
         }
     }
