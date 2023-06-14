@@ -1,0 +1,61 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\obj\Debug\usingdll ex.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\obj\Debug\usingdll ex.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\usingdll ex.dll.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\usingdll ex.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\usingdll ex.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csc.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csc.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csc.rsp
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csi.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csi.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\csi.rsp
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.AppContext.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Console.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.IO.Compression.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Net.Http.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Net.Sockets.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.ValueTuple.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Xml.XPath.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\vbc.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\vbc.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\vbc.rsp
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\VBCSCompiler.exe
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\ClassLibrary1.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\ClassLibrary1.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\obj\Debug\usingdll ex.csproj.CopyComplete
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\obj\Debug\usingdll ex.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\usingdll ex\usingdll ex\obj\Debug\usingdll ex.pdb

@@ -1,0 +1,6 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -34,7 +34,7 @@ namespace trust1
             GridView1.DataSource = ds.Tables["tableitem"].DefaultView;
             GridView1.DataBind();
         }
-
+          
         protected void Button1_Click(object sender, EventArgs e)
         {
             str = "insert into Vendor_Master values(@Vendor_Name )";
@@ -89,13 +89,14 @@ namespace trust1
 
         protected void Button4_Click(object sender, EventArgs e)
         {
-            str = "select * from Vendor_Master where Vendor_Name=@Vendor_Name";
+            str = "select * from Vendor_Master where Vendor_Id=@Vendor_ID";
             da = new SqlDataAdapter(str, con);
             da.SelectCommand.Parameters.AddWithValue("@Vendor_Name", TextBox1.Text);
             da.Fill(ds, "tableitem");
 
 
             TextBox1.Text = ds.Tables["tableitem"].Rows[0].ItemArray[1].ToString();
+            //TextBox2.Text = ds.Tables["tableitem"].Rows[0].ItemArray[2].ToString();
 
             GridView1.DataSource = ds.Tables["tableitem"].DefaultView;
 

@@ -15,11 +15,14 @@ Department_Id int primary key identity,
 Department_Name varchar(40), 
 )
 
+select * from Department_Master
 
 create table Vendor_Master(
 Vendor_Id int primary key identity,
 Vendor_Name varchar(40),
 )
+
+select * from Vendor_Master
 
 create table Transaction_Details(
 Transaction_ID int primary key identity,

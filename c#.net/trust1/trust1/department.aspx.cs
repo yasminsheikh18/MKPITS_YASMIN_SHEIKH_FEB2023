@@ -93,7 +93,8 @@ namespace trust1
 
             
             TextBox1.Text = ds.Tables["tableitem"].Rows[0].ItemArray[1].ToString();
-            
+            //TextBox2.Text = ds.Tables["tableitem"].Rows[0].ItemArray[2].ToString();
+
             GridView1.DataSource = ds.Tables["tableitem"].DefaultView;
 
             GridView1.DataBind();
