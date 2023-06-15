@@ -53,7 +53,7 @@ namespace trust1
                     command.Parameters.AddWithValue("@Item_id", DropDownList1.SelectedValue);
                     command.Parameters.AddWithValue("@Transaction_Date", TextBox1.Text);
                     command.Parameters.AddWithValue("@Department_Id", DropDownList2.SelectedValue);
-                    command.Parameters.AddWithValue("@Quantity",TextBox2.Text);
+                    command.Parameters.AddWithValue("@Quantity", TextBox2.Text);
                     con.Open();
                     command.ExecuteNonQuery();
                     con.Close();
@@ -71,7 +71,7 @@ namespace trust1
                     }
                     reader.Close();
                     con.Close();
-                      Response.Write("bal qty " + bal_qty.ToString());
+                    Response.Write("bal qty " + bal_qty.ToString());
                     int qty = bal_qty - Convert.ToInt32(TextBox2.Text);
 
                     query = "update Item_Master set Balance_Quantity=@Balance_Quantity where Item_Id=@Item_Id";
@@ -94,6 +94,60 @@ namespace trust1
                 {
                     con.Close();
                 }
+
+            }
+            else if (RadioButton2.Checked)
+            {
+                try
+                {
+                    query = "insert into Transaction_Details(Item_Id,Transaction_Date,Vendor_Id,Quantity) values(@Item_Id,@Transaction_Date,@Vendor_Id,@Quantity)";
+                    command = new SqlCommand(query, con);
+                    command.Parameters.AddWithValue("@Item_id", DropDownList1.SelectedValue);
+                    command.Parameters.AddWithValue("@Transaction_Date", TextBox1.Text);
+                    command.Parameters.AddWithValue("@Vendor_Id", DropDownList3.SelectedValue);
+                    command.Parameters.AddWithValue("@Quantity", TextBox2.Text);
+                    con.Open();
+                    command.ExecuteNonQuery();
+                    con.Close();
+
+                    //code to get balance_quantity from item_master table
+                    int bal_qty = 0;
+                    query = "select Balance_Quantity from Item_Master where Item_Id=@Item_Id";
+                    command = new SqlCommand(query, con);
+                    command.Parameters.AddWithValue("@Item_Id", DropDownList1.SelectedValue);
+                    con.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+                    if (reader.Read())
+                    {
+                        bal_qty = Convert.ToInt32(reader[0].ToString());
+                    }
+                    reader.Close();
+                    con.Close();
+                    Response.Write("bal qty " + bal_qty.ToString());
+                    int qty = bal_qty + Convert.ToInt32(TextBox2.Text);
+
+                    query = "update Item_Master set Balance_Quantity=@Balance_Quantity where Item_Id=@Item_Id";
+
+                    command = new SqlCommand(query, con);
+                    command.Parameters.AddWithValue("@Balance_Quantity", qty);
+                    command.Parameters.AddWithValue("@Item_Id", DropDownList1.SelectedValue);
+                    con.Open();
+                    command.ExecuteNonQuery();
+                    //con.Close();
+                    Label1.Text = "item issued to Vendor successfully";
+
+
+                }
+                catch (Exception ee)
+                {
+                    Label1.Text = ee.ToString();
+                }
+                finally
+                {
+                    con.Close();
+                }
+
+
             }
 
         }

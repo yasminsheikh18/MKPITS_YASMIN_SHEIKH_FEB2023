@@ -1,0 +1,2 @@
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\storelibrary\storelibrary\obj\Debug\storelibrary.csproj.AssemblyReference.cache
+C:\dotnet\MKPITS_YASMIN_SHEIKH_FEB2023\c#.net\storelibrary\storelibrary\obj\Debug\storelibrary.csproj.CoreCompileInputs.cache
