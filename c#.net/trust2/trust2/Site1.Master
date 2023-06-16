@@ -18,10 +18,14 @@
         <p class="auto-style1">
             Store Management</p>
         <p class="auto-style1">
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/WebForm2.aspx">Item Master</asp:HyperLink>
+&nbsp;
             <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Department1.aspx">Department Master</asp:HyperLink>
 &nbsp;
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/vendor.aspx">Vendor Master</asp:HyperLink>
+        &nbsp;
+            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/WebForm3.aspx">Transaction Details</asp:HyperLink>
         </p>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
